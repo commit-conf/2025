@@ -1,0 +1,13 @@
+<section>
+  <div class="limited-large content section-center">
+    <h1>{{DejavuTitle}}</h1>
+    <p>{{DejavuDesc}}</p>
+    <div class="dejavu-videos">
+      {% import "macros/youtube.njk" as youtube %}
+      {{ youtube.render(id="8gsDVQQFhCI", title="Realidad aumentada para todos los devs - Cynthia Gálvez", ariaLabel="Click to play the recording of Realidad aumentada para todos los devs - Cynthia Gálvez") }}
+      {{ youtube.render(id="nQXvasP9dfc", title="Entidades y Agregados: El momento en el que hicimos 'click' y entendimos esta parte de DDD - Javier Ferrer y Rafa Gómez", ariaLabel="Click to play the recording of Entidades y Agregados: El momento en el que hicimos 'click' y entendimos esta parte de DDD - Javier Ferrer y Rafa Gómez") }}
+      {{ youtube.render(id="IlbgE_g5JJQ", title="El lado estratégico de Domain-Driven Design - Dani Latorre", ariaLabel="Click to play the recording of El lado estratégico de Domain-Driven Design - Dani Latorre") }}
+      <a class="dejavu-link" href="https://2024.commit-conf.com" aria-label="{{ViewMoreDejavu}}">» {{MoreDejavu}}</a>
+    </div>
+  </div>
+</section>
