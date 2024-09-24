@@ -8,7 +8,7 @@ module.exports = function () {
     metaImage: "https://2025.commit-conf.com/img/square-head.jpg",
     name: "Commit Conf",
     email: "info@commit-conf.com",
-    twitter: "@commitconf",
+    xAccount: "@commitconf",
     youtubeChannel: "UCd_1KHg4t2VKGsSDF8OD5Cw",
     environment: process.env.ENV || "prod",
     c4pURL: "https://koliseo.com/commit/commit-conf-2025/sessions",

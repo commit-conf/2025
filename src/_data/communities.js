@@ -5,7 +5,7 @@ module.exports = [
   },
   {
     name: "AgileGirls",
-    href: "https://twitter.com/agilegirls",
+    href: "https://x.com/agilegirls",
   },
   {
     name: "AlmeriaTech",
@@ -105,7 +105,7 @@ module.exports = [
   },
   {
     name: "Tech Club Asturias",
-    href: "https://twitter.com/TCAsturias",
+    href: "https://x.com/TCAsturias",
   },
   {
     name: "XantarDev",

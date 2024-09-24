@@ -1,4 +1,4 @@
-{% macro member(avatar, name, description, twitter = '') %}
+{% macro member(avatar, name, description, xAccount = '') %}
   <picture aria-hidden class="avatar">
     <source srcset="/img/team/{{avatar}}.avif" type="image/avif">
     <source srcset="/img/team/{{avatar}}.jpg">
@@ -6,7 +6,7 @@
   </picture>
   <div>
     <p>
-      <b>{{name}}{% if twitter %} <a href="https://twitter.com/@{{twitter}}">@{{twitter}}</a>{% endif %}</b>
+      <b>{{name}}{% if xAccount %} <a href="https://x.com/@{{xAccount}}">@{{xAccount}}</a>{% endif %}</b>
       <br>{{description}}
     </p>
   </div>
