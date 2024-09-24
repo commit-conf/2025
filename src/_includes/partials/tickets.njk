@@ -13,7 +13,10 @@
       {% endif %}
     </section>
   {% endmacro %}
-  {{ renderSection(INeedInvoice, HowToGetYourInvoice) }}
+  {% set GetYourInvoice %}
+    <p>{{HowToGetYourInvoice}}</p>
+  {% endset %}
+  {{ renderSection(INeedInvoice, GetYourInvoice) }}
   {{ renderSection(TransferTicket, HowToTransferTicket) }}
   {{ renderSection(RefundPolicy, NoRefundPolicy) }}
   {{ renderSection(CannotFindMyTicket, KnownTroubleshootsFindingTicket) }}
