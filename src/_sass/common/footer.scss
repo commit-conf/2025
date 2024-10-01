@@ -1,13 +1,3 @@
-:root {
-  --color-footer-bg: var(--color-primary-bg);
-  --color-footer-bg-theme-2: var(--color-primary-border);
-  --color-footer-link: var(--color-topbar-fg);
-  --color-footer-title: var(--color-primary-fg);
-  --color-footer-link-hover: var(--color-secondary-bg);
-  --footer-padding: var(--padding-10) var(--padding-5);
-  --footer-logo-width: 125px;
-}
-
 footer {
   // when there is no content, creates separation with the left menu. Find other options.
   // margin-top: var(--footer-padding);
@@ -27,12 +17,13 @@ footer {
   }
 }
 .footer-column-title {
-  margin-bottom: var(--margin-3);
+  margin-bottom: var(--margin-5);
   text-transform: uppercase;
   color: var(--color-footer-title);
-  font-weight: bold;
+  font-weight: 700;
   letter-spacing: 1px;
   font-size: var(--font-size-m);
+  font-family: var(--body-font);
 }
 .footer-link {
   color: var(--color-footer-link);
@@ -55,7 +46,7 @@ footer {
   text-indent: -1000px;
   overflow: hidden;
   display: block;
-  background: url("/svg/logo.svg") no-repeat;
+  background: url("/svg/wlogo.svg") no-repeat;
   background-size: contain;
   margin-right: var(--margin-5);
 }

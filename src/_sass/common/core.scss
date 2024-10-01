@@ -7,15 +7,6 @@ body {
   font-size: var(--font-size-xl);
   margin: 0;
   padding: 0;
-
-  // --- Font families ---
-  // Extracted from https://tailwindcss.com/docs/font-family
-  --body-font: "Lato", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --header-font: "Inter", var(--body-font);
-  --mono-font: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
-    monospace;
 }
 
 img {
@@ -57,11 +48,10 @@ h5,
 h6 {
   color: var(--color-header);
   font-family: var(--header-font);
-  font-weight: 900;
+  font-weight: 300;
   line-height: var(--line-height-tight);
   margin-bottom: var(--margin-2);
   margin-top: var(--margin-1);
-  text-shadow: 1px 1px 0 var(--color-gray-600);
 
   // link inside a header is black.
   // We are still leaving a different color when hovering,
@@ -113,7 +103,8 @@ h6 {
 .subheader {
   color: var(--color-subheader);
   line-height: var(--line-height-snug);
-  //margin: var(--margin-4) 0;
+  font-family: var(--header-font);
+  font-size: var(--font-size-3xl);
 }
 
 hr {

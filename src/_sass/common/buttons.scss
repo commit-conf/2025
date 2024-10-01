@@ -16,7 +16,7 @@
 
   margin: var(--margin-0) var(--margin-2) var(--margin-4) var(--margin-0);
   font-size: var(--font-size-xl);
-  transition: all 0.4s ease-out;
+  transition: color 0.4s ease-out, background-color 0.4s ease-out;
   small,
   .small {
     font-size: 80%;
