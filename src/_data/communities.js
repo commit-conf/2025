@@ -115,4 +115,12 @@ module.exports = [
     name: "Asturias Software Crafters",
     href: "https://linktr.ee/asturiaswcraft ",
   },
+  {
+    name: "Mermelada Tech",
+    href: "https://linktr.ee/mermeladatech",
+  },
+  {
+    name: "Sysarmy Galicia",
+    href: "https://www.sysarmygalicia.com/",
+  },
 ];
