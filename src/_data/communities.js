@@ -111,4 +111,8 @@ module.exports = [
     name: "XantarDev",
     href: "https://xantardev.org",
   },
+  {
+    name: "Asturias Software Crafters",
+    href: "https://linktr.ee/asturiaswcraft ",
+  },
 ];
