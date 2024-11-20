@@ -131,4 +131,8 @@ module.exports = [
     name: "PHP Coruña",
     href: "https://t.me/phpcoruna",
   },
+  {
+    name: "Coruña Web Talks & Friends",
+    href: "https://linktr.ee/corunawtf",
+  },
 ];
