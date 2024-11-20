@@ -123,4 +123,12 @@ module.exports = [
     name: "Sysarmy Galicia",
     href: "https://www.sysarmygalicia.com/",
   },
+  {
+    name: "Python Coruña",
+    href: "https://linktr.ee/pythoncoruna",
+  },
+  {
+    name: "PHP Coruña",
+    href: "https://t.me/phpcoruna",
+  },
 ];
