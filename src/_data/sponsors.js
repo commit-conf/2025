@@ -8,4 +8,13 @@ module.exports = [
       },
     ],
   },
+  {
+    name: "Silver",
+    items: [
+      {
+        name: "Profile",
+        href: "https://profile.es/",
+      },
+    ],
+  },
 ];
