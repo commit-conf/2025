@@ -15,11 +15,6 @@ module.exports = [
         name: "Profile",
         href: "https://profile.es/",
       },
-      {
-        name: "Bravent",
-        href: "https://www.bravent.net/",
-        svg:  true,
-      },
     ],
   },
 ];
