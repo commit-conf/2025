@@ -29,6 +29,10 @@ module.exports = [
         name: "Sticker Mule",
         href: "https://www.stickermule.com/es/pegatinas-personalizadas",
       },
+      {
+        name: "Keepcoding",
+        href: "https://keepcoding.io/",
+      },
     ],
   },
 ];
