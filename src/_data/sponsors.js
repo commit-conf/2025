@@ -22,4 +22,13 @@ module.exports = [
       },
     ],
   },
+  {
+    name: "Partner",
+    items: [
+      {
+        name: "Sticker Mule",
+        href: "https://www.stickermule.com/es/pegatinas-personalizadas",
+      },
+    ],
+  },
 ];
