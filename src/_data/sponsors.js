@@ -9,6 +9,15 @@ module.exports = [
     ],
   },
   {
+    name: "Diamond",
+    items: [
+      {
+        name: "Next Digital",
+        href: "https://www.nextdigital.es/",
+      },
+    ],
+  },
+  {
     name: "Silver",
     items: [
       {
