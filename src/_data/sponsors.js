@@ -29,6 +29,11 @@ module.exports = [
         href: "https://www.caixabanktech.com/es/pagina-de-inicio/",
         svg: true,
       },
+      {
+        name: "Facephi",
+        href: "https://facephi.com/",
+        svg: true,
+      },
     ],
   },
   {
