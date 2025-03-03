@@ -24,6 +24,10 @@ module.exports = [
         name: "Sopra Steria",
         href: "https://www.soprasteria.es/trabaja-con-nosotros",
       },
+      {
+        name: "Thoughtworks",
+        href: "https://www.thoughtworks.com/es-es",
+      },
     ],
   },
   {
