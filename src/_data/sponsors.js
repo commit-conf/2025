@@ -60,6 +60,11 @@ module.exports = [
         name: "Keepcoding",
         href: "https://keepcoding.io/",
       },
+      {
+        name: "Auth0",
+        href: "https://auth0.com/",
+        svg: true,
+      },
     ],
   },
 ];
