@@ -61,9 +61,8 @@ module.exports = [
         href: "https://keepcoding.io/",
       },
       {
-        name: "Auth0",
-        href: "https://auth0.com/",
-        svg: true,
+        name: "Okta",
+        href: "https://www.okta.com/",
       },
     ],
   },
