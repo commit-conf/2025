@@ -61,8 +61,8 @@ module.exports = [
         href: "https://keepcoding.io/",
       },
       {
-        name: "Okta",
-        href: "https://www.okta.com/",
+        name: "Auth0",
+        href: "https://auth0.com/",
       },
     ],
   },
