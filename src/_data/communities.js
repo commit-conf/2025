@@ -135,4 +135,9 @@ module.exports = [
     name: "Coruña Web Talks & Friends",
     href: "https://linktr.ee/corunawtf",
   },
+  {
+    name: "Sirviendo Codigo",
+    href: "https://sirviendocodigo.com", 
+    svg: "true",
+  },
 ];
