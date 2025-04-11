@@ -14,8 +14,7 @@ module.exports = function () {
     c4pURL: "https://koliseo.com/commit/commit-conf-2025/sessions",
     agendaURL: "https://koliseo.com/commit/commit-conf-2025/agenda",
     ticketsURL: "https://koliseo.com/commit/commit-conf-2025/tickets",
-    photosURL:
-      "https://www.flickr.com/photos/145448896@N02/albums/72177720316450150",
+    photosURL: "https://flic.kr/s/aHBqjC8hg3",
     videosURL:
       "https://youtube.com/playlist?list=PLu976vDeELBquvUU5GLv0FVPAsrg7AEEv&si=GgaFl5YII4H30Gnh",
     newsletter:
